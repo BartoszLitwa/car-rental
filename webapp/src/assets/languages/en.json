@@ -1,0 +1,11 @@
+{
+  "CAR_RENTAL": {
+    "TITLE": "Car Rental Information",
+    "DESCRIPTION": "Rent this amazing car now!",
+    "CAR_DETAILS": "Car Details",
+    "BRAND": "Brand",
+    "MODEL": "Model",
+    "YEAR": "Year",
+    "PRICE": "Price per day"
+  }
+}

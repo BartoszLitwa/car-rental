@@ -1,0 +1,11 @@
+{
+  "CAR_RENTAL": {
+    "TITLE": "Informacje o wynajmie samochodu",
+    "DESCRIPTION": "Wynajmij teraz ten niesamowity samochód!",
+    "CAR_DETAILS": "Szczegóły samochodu",
+    "BRAND": "Marka",
+    "MODEL": "Model",
+    "YEAR": "Rok",
+    "PRICE": "Cena za dzień"
+  }
+}
