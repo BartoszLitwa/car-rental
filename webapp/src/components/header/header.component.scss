@@ -1,0 +1,67 @@
+.navbar_component {
+    // Add your styles here
+  }
+  
+  .navbar_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .navbar_logo {
+    max-height: 50px;
+  }
+  
+  .navbar_wrapper {
+    display: flex;
+    align-items: center;
+  }
+  
+  .button {
+    margin-right: 15px;
+  }
+  
+  .navbar_menu {
+    display: none;
+  }
+  
+  .navbar_menu-button {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .menu-icon {
+    width: 30px;
+    height: 30px;
+    position: relative;
+  }
+  
+  .menu-icon_wrapper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .menu-icon4_line-top,
+  .menu-icon4_line-middle,
+  .menu-icon4_line-bottom {
+    height: 4px;
+    width: 30px;
+    background-color: #333;
+    margin: 4px 0;
+  }
+  
+  .menu-icon4_line-middle {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .menu-icon_line-middle-top,
+  .menu-icon_line-middle-base {
+    height: 4px;
+    background-color: #333;
+    margin: 4px 0;
+  }
+  
